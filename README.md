@@ -1,2 +1,2 @@
-# Rioce-Computer-Appliction
-Rioce Computer Appliction is a official appliction avalabe on Google playstore
+# Rioce-Application
+This is a Rioce Application
